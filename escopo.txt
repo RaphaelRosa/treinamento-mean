@@ -1,0 +1,9 @@
+Controle financeiro pessoal
+
+- Classe usuário
+	- verificar saldo
+	- cadastrar desconto
+	- cadastrar acréscimo
+
+- Cadastrar uma compra
+- Cadastrar um recebimento
